@@ -1,11 +1,11 @@
 package web.models;
 
-
 public class Car {
 
     private String model;
     private String color;
     private int year;
+
 
     public Car(String model, String color, int year) {
         this.model = model;
